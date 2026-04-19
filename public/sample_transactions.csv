@@ -1,0 +1,499 @@
+txn_id,date,vendor,description,amount,category
+1001,2024-01-01 00:00:00.000000000,Goldline Trading,Invoice payment,698769.09,Marketing
+1002,2024-01-01 17:33:18.396793587,NovaTech Services,Equipment purchase,92969.23,Marketing
+1003,2024-01-02 11:06:36.793587174,Peak Facilities Mgmt,Service fee,1363651.78,CapEx
+1004,2024-01-03 04:39:55.190380761,Alpha Logistics,Office supplies,1813641.16,IT
+1005,2024-01-03 22:13:13.587174348,BrightPath Consulting,Office supplies,23705.14,Admin
+1006,2024-01-04 15:46:31.983967935,Excel Media Group,Maintenance,62738.51,Admin
+1007,2024-01-05 09:19:50.380761523,Excel Media Group,Equipment purchase,535930.95,Marketing
+1008,2024-01-06 02:53:08.777555110,Alpha Logistics,Invoice payment,275305.35,Marketing
+1009,2024-01-06 20:26:27.174348697,Sunrise Contractors,Service fee,431403.13,OpEx
+1010,2024-01-07 13:59:45.571142284,NovaTech Services,Maintenance,123060.84,CapEx
+1011,2024-01-08 07:33:03.967935871,Sunrise Contractors,Equipment purchase,4985000.0,CapEx
+1012,2024-01-09 01:06:22.364729458,BlueStar Procurement,Office supplies,4990000.0,IT
+1013,2024-01-09 18:39:40.761523046,Zenith Supplies Ltd,Equipment purchase,488476.21,Marketing
+1014,2024-01-10 12:12:59.158316633,BlueStar Procurement,Service fee,2399718.05,CapEx
+1015,2024-01-11 05:46:17.555110220,Goldline Trading,,892038.0,Marketing
+1016,2024-03-02 00:00:00.000000000,Peak Facilities Mgmt,Maintenance,121912.8,Marketing
+1017,2024-06-16 00:00:00.000000000,Goldline Trading,,769215.29,CapEx
+1018,2024-01-13 10:26:12.745490981,NovaTech Services,Maintenance,104995.85,Admin
+1019,2024-01-14 03:59:31.142284569,Peak Facilities Mgmt,Consultancy retainer,1652294.44,IT
+1020,2024-01-14 21:32:49.539078156,Excel Media Group,Service fee,410491.76,Admin
+1021,2024-01-15 15:06:07.935871743,Alpha Logistics,Service fee,335275.03,OpEx
+1022,2024-01-16 08:39:26.332665330,Peak Facilities Mgmt,,159309.75,Marketing
+1023,2024-01-17 02:12:44.729458917,Peak Facilities Mgmt,Equipment purchase,2768488.35,Admin
+1024,2024-01-17 19:46:03.126252505,NovaTech Services,Equipment purchase,350882.18,Admin
+1025,2024-01-18 13:19:21.523046092,BlueStar Procurement,,232700.68,Marketing
+1026,2024-01-19 06:52:39.919839679,Excel Media Group,Office supplies,260875.79,IT
+1027,2024-01-20 00:25:58.316633266,NovaTech Services,,983097.69,CapEx
+1028,2024-01-20 17:59:16.713426853,Zenith Supplies Ltd,,765409.37,Admin
+1029,2024-01-21 11:32:35.110220440,Excel Media Group,Invoice payment,821673.93,OpEx
+1030,2024-01-22 05:05:53.507014028,BrightPath Consulting,Consultancy retainer,844273.27,Marketing
+1031,2024-01-22 22:39:11.903807615,Peak Facilities Mgmt,Maintenance,-125000.0,Admin
+1032,2024-01-23 16:12:30.300601202,Sunrise Contractors,Maintenance,240476.46,CapEx
+1033,2024-01-24 09:45:48.697394789,Goldline Trading,Service fee,205178.56,Marketing
+1034,2024-01-25 03:19:07.094188376,Alpha Logistics,Consultancy retainer,130527.72,Admin
+1035,2024-01-25 20:52:25.490981963,Peak Facilities Mgmt,Equipment purchase,1114558.74,Admin
+1036,2024-01-26 14:25:43.887775551,Alpha Logistics,Maintenance,2405957.33,Admin
+1037,2024-01-27 07:59:02.284569138,Goldline Trading,Invoice payment,372904.94,CapEx
+1038,2024-01-28 01:32:20.681362725,Horizon Advisors,Office supplies,125462.89,OpEx
+1039,2024-01-28 19:05:39.078156312,BlueStar Procurement,Consultancy retainer,128447.84,IT
+1040,2024-01-29 12:38:57.474949899,BlueStar Procurement,Service fee,1173955.27,OpEx
+1041,2024-01-30 06:12:15.871743487,BlueStar Procurement,Equipment purchase,1349009.61,CapEx
+1042,2024-01-30 23:45:34.268537074,Sunrise Contractors,Consultancy retainer,999221.15,Marketing
+1043,2024-01-31 17:18:52.665330661,BrightPath Consulting,Office supplies,163037.49,OpEx
+1044,2024-02-01 10:52:11.062124248,Horizon Advisors,Consultancy retainer,626711.75,Marketing
+1045,2024-02-02 04:25:29.458917835,Horizon Advisors,Maintenance,527038.41,Marketing
+1046,2024-02-02 21:58:47.855711422,BlueStar Procurement,Invoice payment,614173.59,Marketing
+1047,2024-02-03 15:32:06.252505010,Excel Media Group,,1634983.33,CapEx
+1048,2024-02-04 09:05:24.649298597,Alpha Logistics,Invoice payment,618710.85,OpEx
+1049,2024-02-05 02:38:43.046092184,Sunrise Contractors,Maintenance,1224900.71,IT
+1051,2024-02-06 13:45:19.839679358,Horizon Advisors,Consultancy retainer,12500000.0,IT
+1052,2024-02-07 07:18:38.236472946,NovaTech Services,Invoice payment,1140448.7,OpEx
+1053,2024-02-08 00:51:56.633266533,NovaTech Services,Office supplies,49725.16,OpEx
+1054,2024-02-08 18:25:15.030060120,Zenith Supplies Ltd,Service fee,273893.1,Marketing
+1055,2024-02-09 11:58:33.426853707,Horizon Advisors,Office supplies,218478.09,IT
+1056,2024-02-10 05:31:51.823647294,Peak Facilities Mgmt,Maintenance,169682.31,IT
+1057,2024-02-10 23:05:10.220440881,Zenith Supplies Ltd,Maintenance,292812.17,Marketing
+1058,2024-02-11 16:38:28.617234469,Goldline Trading,Office supplies,4165771.15,CapEx
+1059,2024-02-12 10:11:47.014028056,Goldline Trading,Consultancy retainer,120722.93,IT
+1060,2024-02-13 03:45:05.410821643,Goldline Trading,Maintenance,1890624.08,Marketing
+1061,2024-02-13 21:18:23.807615230,BlueStar Procurement,Maintenance,35443.51,OpEx
+1062,2024-02-14 14:51:42.204408817,Alpha Logistics,,267713.45,OpEx
+1063,2024-02-15 08:25:00.601202404,NovaTech Services,,564745.01,IT
+1064,2024-02-16 01:58:18.997995992,Alpha Logistics,,1065903.65,CapEx
+1065,2024-02-16 19:31:37.394789579,BrightPath Consulting,,1285733.42,Marketing
+1066,2024-02-17 13:04:55.791583166,BlueStar Procurement,,1454279.07,OpEx
+1067,2024-02-18 06:38:14.188376753,BlueStar Procurement,Service fee,262212.99,CapEx
+1068,2024-02-19 00:11:32.585170340,Zenith Supplies Ltd,Invoice payment,221122.54,CapEx
+1069,2024-02-19 17:44:50.981963927,Excel Media Group,Maintenance,1602321.1,CapEx
+1070,2024-02-20 11:18:09.378757515,BrightPath Consulting,Service fee,332050.89,Marketing
+1071,2024-02-21 04:51:27.775551102,Alpha Logistics,Office supplies,65281.93,IT
+1072,2024-02-21 22:24:46.172344689,BrightPath Consulting,Office supplies,80827.23,IT
+1073,2024-02-22 15:58:04.569138276,Alpha Logistics,Invoice payment,111393.2,Marketing
+1074,2024-02-23 09:31:22.965931864,Goldline Trading,Service fee,932608.82,CapEx
+1076,2024-02-24 20:37:59.759519038,Sunrise Contractors,Equipment purchase,1246347.75,Admin
+1077,2024-02-25 14:11:18.156312625,Peak Facilities Mgmt,Invoice payment,233076.27,Admin
+1078,2024-02-26 07:44:36.553106212,Goldline Trading,,561187.04,Marketing
+1079,2024-02-27 01:17:54.949899799,Zenith Supplies Ltd,Service fee,1130743.11,Marketing
+1080,2024-02-27 18:51:13.346693387,Zenith Supplies Ltd,Invoice payment,278167.91,IT
+1081,2024-02-28 12:24:31.743486974,BrightPath Consulting,,877790.17,Admin
+1082,2024-02-29 05:57:50.140280561,BrightPath Consulting,Invoice payment,163916.28,Marketing
+1083,2024-02-29 23:31:08.537074148,Horizon Advisors,Equipment purchase,256637.34,Marketing
+1084,2024-03-01 17:04:26.933867735,Horizon Advisors,,249544.66,CapEx
+1085,2024-03-02 10:37:45.330661322,Horizon Advisors,Office supplies,73588.24,CapEx
+1086,2024-03-03 04:11:03.727454910,Excel Media Group,Office supplies,918464.67,Marketing
+1087,2024-03-03 21:44:22.124248497,Sunrise Contractors,Consultancy retainer,218796.31,OpEx
+1088,2024-03-04 15:17:40.521042084,Excel Media Group,Invoice payment,450782.92,CapEx
+1089,2024-03-05 08:50:58.917835671,Goldline Trading,Office supplies,909927.3,Marketing
+1090,2024-03-06 02:24:17.314629258,Excel Media Group,,864405.07,IT
+1091,2024-03-06 19:57:35.711422845,Peak Facilities Mgmt,Invoice payment,1200294.69,Admin
+1092,2024-03-07 13:30:54.108216433,Peak Facilities Mgmt,,381654.78,CapEx
+1093,2024-03-08 07:04:12.505010020,Excel Media Group,Consultancy retainer,234462.87,Admin
+1094,2024-03-09 00:37:30.901803607,Zenith Supplies Ltd,Equipment purchase,392551.37,Marketing
+1095,2024-03-09 18:10:49.298597194,Peak Facilities Mgmt,Service fee,35206.93,Admin
+1096,2024-03-10 11:44:07.695390781,NovaTech Services,Office supplies,50479.94,OpEx
+1097,2024-03-11 05:17:26.092184368,Peak Facilities Mgmt,Service fee,60836.83,Admin
+1098,2024-03-11 22:50:44.488977956,Sunrise Contractors,Service fee,99124.29,Admin
+1099,2024-03-12 16:24:02.885771543,Horizon Advisors,Maintenance,805856.8,Marketing
+1100,2024-03-13 09:57:21.282565130,NovaTech Services,Invoice payment,113752.63,IT
+1101,2024-03-14 03:30:39.679358717,BlueStar Procurement,Equipment purchase,1000000.0,IT
+1102,2024-03-14 21:03:58.076152304,Horizon Advisors,Office supplies,2000000.0,Marketing
+1103,2024-03-15 14:37:16.472945892,NovaTech Services,Invoice payment,5000000.0,CapEx
+1104,2024-03-16 08:10:34.869739479,Goldline Trading,Consultancy retainer,10000000.0,Admin
+1105,2024-03-17 01:43:53.266533066,Sunrise Contractors,Consultancy retainer,109051.28,OpEx
+1106,2024-03-17 19:17:11.663326653,Peak Facilities Mgmt,Office supplies,325085.55,IT
+1107,2024-03-18 12:50:30.060120240,Excel Media Group,,106400.64,IT
+1108,2024-03-19 06:23:48.456913827,Horizon Advisors,Maintenance,266052.89,IT
+1109,2024-03-19 23:57:06.853707415,NovaTech Services,Service fee,1560414.75,CapEx
+1110,2024-03-20 17:30:25.250501002,Sunrise Contractors,Invoice payment,33157.34,CapEx
+1111,2024-03-21 11:03:43.647294589,Goldline Trading,Invoice payment,848848.04,IT
+1112,2024-03-22 04:37:02.044088176,BlueStar Procurement,Office supplies,631973.92,Admin
+1113,2024-03-22 22:10:20.440881763,NovaTech Services,Service fee,181457.2,Marketing
+1114,2024-03-23 15:43:38.837675350,Sunrise Contractors,Service fee,50559.86,Admin
+1115,2024-03-24 09:16:57.234468938,Alpha Logistics,Maintenance,492965.4,Admin
+1116,2024-03-25 02:50:15.631262525,Horizon Advisors,,199937.67,Marketing
+1117,2024-03-25 20:23:34.028056112,NovaTech Services,Maintenance,627195.97,IT
+1118,2024-03-26 13:56:52.424849699,NovaTech Services,Service fee,457155.2,CapEx
+1119,2024-03-27 07:30:10.821643286,Sunrise Contractors,Office supplies,4889831.18,IT
+1120,2024-03-28 01:03:29.218436873,Goldline Trading,Office supplies,308959.83,CapEx
+1121,2024-03-28 18:36:47.615230461,Horizon Advisors,Service fee,95297.01,Admin
+1122,2024-03-29 12:10:06.012024048,Sunrise Contractors,Equipment purchase,578916.45,IT
+1123,2024-03-30 05:43:24.408817635,Sunrise Contractors,Equipment purchase,615379.87,IT
+1124,2024-03-30 23:16:42.805611222,Alpha Logistics,Consultancy retainer,3398284.7,IT
+1125,2024-03-31 16:50:01.202404809,Zenith Supplies Ltd,Maintenance,1548298.07,CapEx
+1126,2024-04-01 10:23:19.599198396,NovaTech Services,Office supplies,755629.6,IT
+1127,2024-04-02 03:56:37.995991984,BlueStar Procurement,Equipment purchase,3972691.32,IT
+1128,2024-04-02 21:29:56.392785571,BlueStar Procurement,Maintenance,74373.53,IT
+1129,2024-04-03 15:03:14.789579158,Excel Media Group,Maintenance,169460.09,OpEx
+1130,2024-04-04 08:36:33.186372745,Excel Media Group,Equipment purchase,110209.25,Marketing
+1131,2024-04-05 02:09:51.583166332,NovaTech Services,Service fee,246541.42,IT
+1132,2024-04-05 19:43:09.979959920,Alpha Logistics,Maintenance,56104.47,Marketing
+1133,2024-04-06 13:16:28.376753507,Zenith Supplies Ltd,Maintenance,1147075.73,CapEx
+1134,2024-04-07 06:49:46.773547094,NovaTech Services,,317002.82,Marketing
+1135,2024-04-08 00:23:05.170340681,NovaTech Services,Service fee,48717.35,OpEx
+1136,2024-04-08 17:56:23.567134268,Alpha Logistics,Consultancy retainer,96435.66,Admin
+1137,2024-04-09 11:29:41.963927855,BrightPath Consulting,,708050.55,Marketing
+1138,2024-04-10 05:03:00.360721443,Zenith Supplies Ltd,Equipment purchase,1555316.86,Admin
+1139,2024-04-10 22:36:18.757515030,Excel Media Group,,8842642.7,Marketing
+1140,2024-04-11 16:09:37.154308617,BlueStar Procurement,Invoice payment,34997727.86,CapEx
+1141,2024-04-12 09:42:55.551102204,Excel Media Group,Invoice payment,823743.23,Marketing
+1142,2024-04-13 03:16:13.947895791,Goldline Trading,Maintenance,100277.12,Marketing
+1143,2024-04-13 20:49:32.344689378,Goldline Trading,Consultancy retainer,18068.59,Marketing
+1144,2024-04-14 14:22:50.741482966,NovaTech Services,Equipment purchase,661038.39,CapEx
+1145,2024-04-15 07:56:09.138276552,Alpha Logistics,Consultancy retainer,130690.65,CapEx
+1146,2024-04-16 01:29:27.535070140,Sunrise Contractors,Consultancy retainer,237272.4,CapEx
+1147,2024-04-16 19:02:45.931863728,Sunrise Contractors,,176637.48,Admin
+1148,2024-04-17 12:36:04.328657314,Zenith Supplies Ltd,Invoice payment,358188.14,Admin
+1149,2024-04-18 06:09:22.725450902,Goldline Trading,Maintenance,2189032.77,CapEx
+1150,2024-04-18 23:42:41.122244488,BrightPath Consulting,,559933.25,Admin
+1151,2024-04-19 17:15:59.519038076,Alpha Logistics,Office supplies,348728.08,CapEx
+1152,2024-04-20 10:49:17.915831662,Peak Facilities Mgmt,Consultancy retainer,93575.08,CapEx
+1153,2024-04-21 04:22:36.312625250,Sunrise Contractors,Service fee,35881.44,Marketing
+1154,2024-04-21 21:55:54.709418838,Excel Media Group,Office supplies,213317.75,IT
+1155,2024-04-22 15:29:13.106212424,Peak Facilities Mgmt,Equipment purchase,408123.94,CapEx
+1156,2024-04-23 09:02:31.503006012,BlueStar Procurement,Service fee,6273813.05,IT
+1157,2024-04-24 02:35:49.899799598,Horizon Advisors,Consultancy retainer,537891.3,Admin
+1158,2024-04-24 20:09:08.296593186,Excel Media Group,,1932083.03,OpEx
+1159,2024-04-25 13:42:26.693386774,Horizon Advisors,Service fee,209202.22,CapEx
+1160,2024-04-26 07:15:45.090180360,Goldline Trading,Service fee,74800.84,OpEx
+1161,2024-04-27 00:49:03.486973948,BlueStar Procurement,Office supplies,104018.58,OpEx
+1162,2024-04-27 18:22:21.883767534,Peak Facilities Mgmt,Service fee,149068.45,CapEx
+1163,2024-04-28 11:55:40.280561122,Excel Media Group,,10774627.24,Admin
+1164,2024-04-29 05:28:58.677354710,BlueStar Procurement,,129045.45,Marketing
+1165,2024-04-29 23:02:17.074148296,Sunrise Contractors,,1556163.11,OpEx
+1166,2024-04-30 16:35:35.470941884,Peak Facilities Mgmt,,114188.88,IT
+1167,2024-05-01 10:08:53.867735470,BrightPath Consulting,Service fee,1789343.8,CapEx
+1168,2024-05-02 03:42:12.264529058,BlueStar Procurement,Service fee,788136.4,OpEx
+1169,2024-05-02 21:15:30.661322644,Excel Media Group,Consultancy retainer,349774.22,Marketing
+1170,2024-05-03 14:48:49.058116232,Peak Facilities Mgmt,Equipment purchase,416172.96,Marketing
+1171,2024-05-04 08:22:07.454909820,Goldline Trading,,165680.82,Marketing
+1172,2024-05-05 01:55:25.851703406,Horizon Advisors,Maintenance,863810.16,OpEx
+1173,2024-05-05 19:28:44.248496994,Zenith Supplies Ltd,Office supplies,223580.05,OpEx
+1174,2024-05-06 13:02:02.645290580,Alpha Logistics,,70374.86,CapEx
+1175,2024-05-07 06:35:21.042084168,Sunrise Contractors,Office supplies,65061.85,Admin
+1176,2024-05-08 00:08:39.438877756,Peak Facilities Mgmt,Consultancy retainer,573138.04,IT
+1177,2024-05-08 17:41:57.835671342,Horizon Advisors,Consultancy retainer,4726222.83,CapEx
+1178,2024-05-09 11:15:16.232464930,Goldline Trading,Equipment purchase,562410.57,OpEx
+1179,2024-05-10 04:48:34.629258516,Excel Media Group,Invoice payment,370290.28,IT
+1180,2024-05-10 22:21:53.026052104,Sunrise Contractors,Maintenance,679246.39,OpEx
+1181,2024-05-11 15:55:11.422845690,BlueStar Procurement,Office supplies,3137706.3,OpEx
+1182,2024-05-12 09:28:29.819639278,Excel Media Group,Maintenance,614813.19,Admin
+1183,2024-05-13 03:01:48.216432866,Goldline Trading,Equipment purchase,238854.33,Admin
+1184,2024-05-13 20:35:06.613226452,BlueStar Procurement,Maintenance,2325470.79,Marketing
+1185,2024-05-14 14:08:25.010020040,Alpha Logistics,,841662.73,IT
+1186,2024-05-15 07:41:43.406813626,BlueStar Procurement,Equipment purchase,4428776.81,IT
+1187,2024-05-16 01:15:01.803607214,Alpha Logistics,Equipment purchase,582364.4,CapEx
+1188,2024-05-16 18:48:20.200400802,BrightPath Consulting,Invoice payment,70494.96,IT
+1189,2024-05-17 12:21:38.597194388,Horizon Advisors,Maintenance,56826.68,Marketing
+1190,2024-05-18 05:54:56.993987976,Peak Facilities Mgmt,,5263948.13,OpEx
+1191,2024-05-18 23:28:15.390781562,BlueStar Procurement,Office supplies,5870783.05,IT
+1192,2024-05-19 17:01:33.787575150,Peak Facilities Mgmt,,337972.96,OpEx
+1193,2024-05-20 10:34:52.184368736,Excel Media Group,,249002.7,Admin
+1194,2024-05-21 04:08:10.581162324,NovaTech Services,Maintenance,3961631.28,Marketing
+1195,2024-05-21 21:41:28.977955912,Zenith Supplies Ltd,Equipment purchase,84072.22,CapEx
+1196,2024-05-22 15:14:47.374749498,Alpha Logistics,Invoice payment,115602.11,CapEx
+1197,2024-05-23 08:48:05.771543086,BrightPath Consulting,Invoice payment,1161229.82,Admin
+1198,2024-05-24 02:21:24.168336672,Zenith Supplies Ltd,Service fee,244774.42,IT
+1199,2024-05-24 19:54:42.565130260,Sunrise Contractors,Equipment purchase,439027.44,CapEx
+1200,2024-05-25 13:28:00.961923848,Peak Facilities Mgmt,Maintenance,346222.06,Marketing
+1201,2024-05-26 07:01:19.358717434,BlueStar Procurement,Equipment purchase,750000.0,Admin
+1202,2024-05-27 00:34:37.755511022,Goldline Trading,Invoice payment,750000.0,OpEx
+1203,2024-05-27 18:07:56.152304608,Horizon Advisors,Service fee,506802.85,Marketing
+1204,2024-05-28 11:41:14.549098196,BlueStar Procurement,,1162296.32,IT
+1205,2024-05-29 05:14:32.945891784,Horizon Advisors,,20429.64,Admin
+1206,2024-05-29 22:47:51.342685370,Goldline Trading,Consultancy retainer,411235.94,OpEx
+1207,2024-05-30 16:21:09.739478958,NovaTech Services,Maintenance,124885.75,OpEx
+1208,2024-05-31 09:54:28.136272544,BlueStar Procurement,Maintenance,71095.58,Admin
+1209,2024-06-01 03:27:46.533066132,BrightPath Consulting,,118512.23,Admin
+1210,2024-06-01 21:01:04.929859718,Goldline Trading,,268019.45,Admin
+1211,2024-06-02 14:34:23.326653306,Zenith Supplies Ltd,Office supplies,1747774.48,CapEx
+1212,2024-06-03 08:07:41.723446894,Peak Facilities Mgmt,Consultancy retainer,60500.74,Admin
+1213,2024-06-04 01:41:00.120240480,Excel Media Group,Office supplies,463215.3,CapEx
+1214,2024-06-04 19:14:18.517034068,Zenith Supplies Ltd,Consultancy retainer,214003.12,Marketing
+1215,2024-06-05 12:47:36.913827654,BrightPath Consulting,Consultancy retainer,270625.27,Marketing
+1216,2024-06-06 06:20:55.310621242,Sunrise Contractors,Office supplies,1990978.41,Marketing
+1217,2024-06-06 23:54:13.707414830,Sunrise Contractors,Equipment purchase,991697.26,OpEx
+1218,2024-06-07 17:27:32.104208416,Horizon Advisors,Office supplies,3289009.99,IT
+1219,2024-06-08 11:00:50.501002004,BrightPath Consulting,Consultancy retainer,350894.71,OpEx
+1220,2024-06-09 04:34:08.897795590,BlueStar Procurement,Consultancy retainer,155762.25,IT
+1221,2024-06-09 22:07:27.294589178,Goldline Trading,Invoice payment,316225.79,OpEx
+1222,2024-06-10 15:40:45.691382764,Horizon Advisors,Office supplies,636503.49,Admin
+1223,2024-06-11 09:14:04.088176352,BrightPath Consulting,Office supplies,576574.61,OpEx
+1224,2024-06-12 02:47:22.484969940,Zenith Supplies Ltd,,86978.64,OpEx
+1225,2024-06-12 20:20:40.881763526,Zenith Supplies Ltd,Equipment purchase,506730.55,Marketing
+1226,2024-06-13 13:53:59.278557114,NovaTech Services,Equipment purchase,623025.36,Marketing
+1227,2024-06-14 07:27:17.675350700,BlueStar Procurement,Invoice payment,19311494.69,OpEx
+1228,2024-06-15 01:00:36.072144288,Zenith Supplies Ltd,Service fee,7387256.04,IT
+1229,2024-06-15 18:33:54.468937876,NovaTech Services,Consultancy retainer,123024.03,CapEx
+1230,2024-06-16 12:07:12.865731462,Alpha Logistics,Consultancy retainer,287484.71,CapEx
+1231,2024-06-17 05:40:31.262525050,BlueStar Procurement,Consultancy retainer,49258.49,CapEx
+1232,2024-06-17 23:13:49.659318636,Excel Media Group,Consultancy retainer,182396.74,Admin
+1233,2024-06-18 16:47:08.056112224,Peak Facilities Mgmt,Maintenance,710275.01,OpEx
+1234,2024-06-19 10:20:26.452905812,Peak Facilities Mgmt,Invoice payment,2700048.87,Admin
+1235,2024-06-20 03:53:44.849699398,Excel Media Group,Consultancy retainer,148208.34,CapEx
+1236,2024-06-20 21:27:03.246492986,Peak Facilities Mgmt,Service fee,165840.26,OpEx
+1237,2024-06-21 15:00:21.643286572,Zenith Supplies Ltd,Consultancy retainer,17660.16,CapEx
+1238,2024-06-22 08:33:40.040080160,Horizon Advisors,Office supplies,346625.81,Marketing
+1239,2024-06-23 02:06:58.436873746,Peak Facilities Mgmt,Invoice payment,89893.27,Marketing
+1240,2024-06-23 19:40:16.833667334,Peak Facilities Mgmt,Consultancy retainer,199953.65,CapEx
+1241,2024-06-24 13:13:35.230460922,NovaTech Services,Invoice payment,118742.06,CapEx
+1242,2024-06-25 06:46:53.627254508,Horizon Advisors,,384080.01,Marketing
+1243,2024-06-26 00:20:12.024048096,NovaTech Services,Maintenance,31678.94,Marketing
+1244,2024-06-26 17:53:30.420841682,Zenith Supplies Ltd,Service fee,48992.97,IT
+1245,2024-06-27 11:26:48.817635270,BlueStar Procurement,Service fee,10787198.53,IT
+1246,2024-06-28 05:00:07.214428858,BrightPath Consulting,Invoice payment,64142.74,IT
+1247,2024-06-28 22:33:25.611222444,Alpha Logistics,Equipment purchase,85376.11,IT
+1248,2024-06-29 16:06:44.008016032,Excel Media Group,Maintenance,6957774.97,Admin
+1249,2024-06-30 09:40:02.404809618,BrightPath Consulting,Office supplies,34539037.15,CapEx
+1250,2024-07-01 03:13:20.801603206,Horizon Advisors,,76316.93,CapEx
+1251,2024-07-01 20:46:39.198396792,Goldline Trading,Consultancy retainer,254645.22,CapEx
+1252,2024-07-02 14:19:57.595190380,Zenith Supplies Ltd,Service fee,738468.2,Marketing
+1253,2024-07-03 07:53:15.991983968,BlueStar Procurement,Equipment purchase,5915262.7,Marketing
+1254,2024-07-04 01:26:34.388777554,Sunrise Contractors,Service fee,100681.2,IT
+1255,2024-07-04 18:59:52.785571142,BrightPath Consulting,,306227.4,OpEx
+1256,2024-07-05 12:33:11.182364728,Excel Media Group,Service fee,1419771.31,Admin
+1257,2024-07-06 06:06:29.579158316,Sunrise Contractors,Equipment purchase,849284.16,CapEx
+1258,2024-07-06 23:39:47.975951904,Zenith Supplies Ltd,Equipment purchase,251642.8,IT
+1259,2024-07-07 17:13:06.372745490,Peak Facilities Mgmt,Invoice payment,361951.52,CapEx
+1260,2024-07-08 10:46:24.769539078,Goldline Trading,Equipment purchase,56255.34,OpEx
+1261,2024-07-09 04:19:43.166332664,Excel Media Group,Equipment purchase,309508.05,Admin
+1262,2024-07-09 21:53:01.563126252,Horizon Advisors,Service fee,296682.78,IT
+1263,2024-07-10 15:26:19.959919840,Excel Media Group,Invoice payment,626719.8,IT
+1264,2024-07-11 08:59:38.356713426,Excel Media Group,Invoice payment,192337.93,OpEx
+1265,2024-07-12 02:32:56.753507014,BrightPath Consulting,Invoice payment,897445.6,CapEx
+1266,2024-07-12 20:06:15.150300600,BrightPath Consulting,Equipment purchase,2020940.85,OpEx
+1267,2024-07-13 13:39:33.547094188,Goldline Trading,Invoice payment,558574.9,CapEx
+1268,2024-07-14 07:12:51.943887774,Horizon Advisors,,749854.61,Admin
+1269,2024-07-15 00:46:10.340681362,Sunrise Contractors,Service fee,479132.77,CapEx
+1270,2024-07-15 18:19:28.737474950,NovaTech Services,Office supplies,442469.4,OpEx
+1271,2024-07-16 11:52:47.134268536,Peak Facilities Mgmt,Office supplies,149890.9,Admin
+1272,2024-07-17 05:26:05.531062124,Horizon Advisors,Equipment purchase,711223.06,OpEx
+1273,2024-07-17 22:59:23.927855710,BlueStar Procurement,,382341.74,CapEx
+1274,2024-07-18 16:32:42.324649298,BrightPath Consulting,Invoice payment,10218930.23,OpEx
+1275,2024-07-19 10:06:00.721442886,Peak Facilities Mgmt,Service fee,4685730.35,OpEx
+1276,2024-07-20 03:39:19.118236472,Sunrise Contractors,Service fee,789195.88,Admin
+1277,2024-07-20 21:12:37.515030060,Goldline Trading,Invoice payment,140844.85,IT
+1278,2024-07-21 14:45:55.911823646,NovaTech Services,Consultancy retainer,83398.27,Marketing
+1279,2024-07-22 08:19:14.308617234,Alpha Logistics,Consultancy retainer,2641122.12,OpEx
+1280,2024-07-23 01:52:32.705410820,BrightPath Consulting,Maintenance,656136.31,OpEx
+1281,2024-07-23 19:25:51.102204408,Sunrise Contractors,Consultancy retainer,909104.3,CapEx
+1282,2024-07-24 12:59:09.498997996,Horizon Advisors,,32309.64,Marketing
+1283,2024-07-25 06:32:27.895791582,Horizon Advisors,Maintenance,1778280.99,Marketing
+1284,2024-07-26 00:05:46.292585170,Alpha Logistics,,874694.98,IT
+1285,2024-07-26 17:39:04.689378756,Excel Media Group,Invoice payment,83646.43,CapEx
+1286,2024-07-27 11:12:23.086172344,Zenith Supplies Ltd,,218100.84,OpEx
+1287,2024-07-28 04:45:41.482965932,Excel Media Group,Office supplies,657089.69,OpEx
+1288,2024-07-28 22:18:59.879759520,NovaTech Services,,478638.17,OpEx
+1289,2024-07-29 15:52:18.276553104,Goldline Trading,Consultancy retainer,285427.47,OpEx
+1290,2024-07-30 09:25:36.673346692,Peak Facilities Mgmt,,378801.5,IT
+1291,2024-07-31 02:58:55.070140280,Goldline Trading,Office supplies,303165.44,CapEx
+1292,2024-07-31 20:32:13.466933868,Horizon Advisors,Invoice payment,556178.06,IT
+1293,2024-08-01 14:05:31.863727456,Sunrise Contractors,Consultancy retainer,4021791.3,Admin
+1294,2024-08-02 07:38:50.260521040,BlueStar Procurement,Invoice payment,9414.56,Admin
+1295,2024-08-03 01:12:08.657314628,Excel Media Group,,310123.1,Admin
+1296,2024-08-03 18:45:27.054108216,BrightPath Consulting,Consultancy retainer,576521.92,IT
+1297,2024-08-04 12:18:45.450901804,Peak Facilities Mgmt,Service fee,689685.51,OpEx
+1298,2024-08-05 05:52:03.847695392,Goldline Trading,Equipment purchase,253248.91,OpEx
+1299,2024-08-05 23:25:22.244488976,Sunrise Contractors,Consultancy retainer,31726.81,Admin
+1300,2024-08-06 16:58:40.641282564,Alpha Logistics,Invoice payment,723599.42,CapEx
+1301,2024-08-07 10:31:59.038076152,Alpha Logistics,Maintenance,5903319.17,Admin
+1302,2024-08-08 04:05:17.434869740,Sunrise Contractors,Maintenance,44320.73,Marketing
+1303,2024-08-08 21:38:35.831663324,Alpha Logistics,Maintenance,1616448.51,Admin
+1304,2024-08-09 15:11:54.228456912,BlueStar Procurement,Office supplies,270279.58,CapEx
+1305,2024-08-10 08:45:12.625250500,Horizon Advisors,Consultancy retainer,403532.97,CapEx
+1306,2024-08-11 02:18:31.022044088,Peak Facilities Mgmt,Equipment purchase,91185.6,Marketing
+1307,2024-08-11 19:51:49.418837676,Peak Facilities Mgmt,Equipment purchase,267885.72,CapEx
+1308,2024-08-12 13:25:07.815631260,Sunrise Contractors,Service fee,3109793.53,Admin
+1309,2024-08-13 06:58:26.212424848,Zenith Supplies Ltd,Invoice payment,1060215.62,Admin
+1310,2024-08-14 00:31:44.609218436,NovaTech Services,Service fee,5947416.06,Marketing
+1311,2024-08-14 18:05:03.006012024,Goldline Trading,Equipment purchase,2587280.37,Marketing
+1312,2024-08-15 11:38:21.402805612,BlueStar Procurement,Service fee,854806.17,Admin
+1313,2024-08-16 05:11:39.799599196,BrightPath Consulting,Invoice payment,6052014.74,CapEx
+1314,2024-08-16 22:44:58.196392784,Goldline Trading,Maintenance,854686.26,CapEx
+1315,2024-08-17 16:18:16.593186372,NovaTech Services,Consultancy retainer,1531843.19,Admin
+1316,2024-08-18 09:51:34.989979960,Alpha Logistics,Office supplies,283549.95,CapEx
+1317,2024-08-19 03:24:53.386773548,Alpha Logistics,Equipment purchase,488853.79,Marketing
+1318,2024-08-19 20:58:11.783567132,NovaTech Services,Maintenance,155416.56,CapEx
+1319,2024-08-20 14:31:30.180360720,Zenith Supplies Ltd,Maintenance,1952021.19,Marketing
+1320,2024-08-21 08:04:48.577154308,Zenith Supplies Ltd,Consultancy retainer,75549.59,Marketing
+1321,2024-08-22 01:38:06.973947896,NovaTech Services,Maintenance,1430487.01,IT
+1322,2024-08-22 19:11:25.370741484,BrightPath Consulting,Consultancy retainer,332376.42,OpEx
+1323,2024-08-23 12:44:43.767535068,Sunrise Contractors,Maintenance,2563465.57,Marketing
+1324,2024-08-24 06:18:02.164328656,Zenith Supplies Ltd,Consultancy retainer,1364506.64,OpEx
+1325,2024-08-24 23:51:20.561122244,NovaTech Services,Invoice payment,6790052.53,CapEx
+1326,2024-08-25 17:24:38.957915832,Goldline Trading,Maintenance,1323992.08,OpEx
+1327,2024-08-26 10:57:57.354709420,BlueStar Procurement,Invoice payment,41853.87,OpEx
+1328,2024-08-27 04:31:15.751503004,Excel Media Group,Maintenance,400140.19,OpEx
+1329,2024-08-27 22:04:34.148296592,Horizon Advisors,Invoice payment,76266.51,OpEx
+1330,2024-08-28 15:37:52.545090180,NovaTech Services,Service fee,203328.92,IT
+1331,2024-08-29 09:11:10.941883768,Goldline Trading,Office supplies,4268797.16,OpEx
+1332,2024-08-30 02:44:29.338677352,Goldline Trading,,1151183.06,CapEx
+1333,2024-08-30 20:17:47.735470940,Horizon Advisors,Consultancy retainer,155065.73,Marketing
+1334,2024-08-31 13:51:06.132264528,BlueStar Procurement,Invoice payment,96705.34,IT
+1335,2024-09-01 07:24:24.529058116,BlueStar Procurement,Service fee,464712.0,IT
+1336,2024-09-02 00:57:42.925851704,Peak Facilities Mgmt,,71336.24,OpEx
+1337,2024-09-02 18:31:01.322645288,Sunrise Contractors,Maintenance,161666.3,IT
+1338,2024-09-03 12:04:19.719438876,Sunrise Contractors,Invoice payment,706454.59,Marketing
+1339,2024-09-04 05:37:38.116232464,BlueStar Procurement,Consultancy retainer,2502918.61,OpEx
+1340,2024-09-04 23:10:56.513026052,BrightPath Consulting,Service fee,1102556.58,Admin
+1341,2024-09-05 16:44:14.909819640,NovaTech Services,Service fee,14229.4,IT
+1342,2024-09-06 10:17:33.306613224,Horizon Advisors,Maintenance,698401.96,CapEx
+1343,2024-09-07 03:50:51.703406812,NovaTech Services,Office supplies,492894.46,OpEx
+1344,2024-09-07 21:24:10.100200400,BrightPath Consulting,Service fee,823102.02,IT
+1345,2024-09-08 14:57:28.496993988,Sunrise Contractors,Office supplies,4996831.26,IT
+1346,2024-09-09 08:30:46.893787576,NovaTech Services,Consultancy retainer,20033.13,IT
+1347,2024-09-10 02:04:05.290581160,Horizon Advisors,Invoice payment,182288.32,IT
+1348,2024-09-10 19:37:23.687374748,BlueStar Procurement,Equipment purchase,1073419.05,IT
+1349,2024-09-11 13:10:42.084168336,NovaTech Services,Service fee,41258.33,Admin
+1350,2024-09-12 06:44:00.480961924,Sunrise Contractors,Service fee,4048769.53,OpEx
+1351,2024-09-13 00:17:18.877755512,BlueStar Procurement,,768760.62,Marketing
+1352,2024-09-13 17:50:37.274549096,Peak Facilities Mgmt,Office supplies,1575173.49,CapEx
+1353,2024-09-14 11:23:55.671342684,BrightPath Consulting,Invoice payment,187884.84,Admin
+1354,2024-09-15 04:57:14.068136272,Sunrise Contractors,Maintenance,1499504.89,Marketing
+1355,2024-09-15 22:30:32.464929860,Excel Media Group,Office supplies,2197228.46,IT
+1356,2024-09-16 16:03:50.861723448,Excel Media Group,,627385.86,CapEx
+1357,2024-09-17 09:37:09.258517032,Zenith Supplies Ltd,Maintenance,628820.64,CapEx
+1358,2024-09-18 03:10:27.655310620,BrightPath Consulting,Consultancy retainer,663653.1,Marketing
+1359,2024-09-18 20:43:46.052104208,Horizon Advisors,Equipment purchase,121173.91,OpEx
+1360,2024-09-19 14:17:04.448897796,BrightPath Consulting,Equipment purchase,354586.28,Admin
+1361,2024-09-20 07:50:22.845691380,BrightPath Consulting,Maintenance,351940.08,Marketing
+1362,2024-09-21 01:23:41.242484968,NovaTech Services,Service fee,786297.73,Admin
+1363,2024-09-21 18:56:59.639278556,Alpha Logistics,Consultancy retainer,1982236.62,CapEx
+1364,2024-09-22 12:30:18.036072144,Alpha Logistics,Service fee,90417.75,IT
+1365,2024-09-23 06:03:36.432865732,NovaTech Services,Consultancy retainer,366768.62,CapEx
+1366,2024-09-23 23:36:54.829659316,Horizon Advisors,Service fee,4082349.84,Marketing
+1367,2024-09-24 17:10:13.226452904,Zenith Supplies Ltd,Invoice payment,145018.65,Admin
+1368,2024-09-25 10:43:31.623246492,BrightPath Consulting,,128878.45,OpEx
+1369,2024-09-26 04:16:50.020040080,Zenith Supplies Ltd,Invoice payment,599265.06,Admin
+1370,2024-09-26 21:50:08.416833668,Sunrise Contractors,,1569986.83,OpEx
+1371,2024-09-27 15:23:26.813627252,BrightPath Consulting,Invoice payment,450061.3,IT
+1372,2024-09-28 08:56:45.210420840,Peak Facilities Mgmt,Maintenance,3247645.68,Marketing
+1373,2024-09-29 02:30:03.607214428,Sunrise Contractors,Consultancy retainer,1599482.94,CapEx
+1374,2024-09-29 20:03:22.004008016,Peak Facilities Mgmt,Equipment purchase,1563957.62,Admin
+1375,2024-09-30 13:36:40.400801604,Excel Media Group,Service fee,1015787.52,Marketing
+1376,2024-10-01 07:09:58.797595188,Goldline Trading,Equipment purchase,14526420.47,CapEx
+1377,2024-10-02 00:43:17.194388776,Horizon Advisors,Equipment purchase,325220.1,CapEx
+1378,2024-10-02 18:16:35.591182364,Goldline Trading,Equipment purchase,21910.4,Admin
+1379,2024-10-03 11:49:53.987975952,BlueStar Procurement,Consultancy retainer,4908021.88,CapEx
+1380,2024-10-04 05:23:12.384769540,BlueStar Procurement,Equipment purchase,222671.05,Marketing
+1381,2024-10-04 22:56:30.781563124,Sunrise Contractors,Maintenance,520123.03,OpEx
+1382,2024-10-05 16:29:49.178356712,Excel Media Group,Equipment purchase,3154454.15,IT
+1383,2024-10-06 10:03:07.575150300,BrightPath Consulting,Consultancy retainer,39999.04,CapEx
+1384,2024-10-07 03:36:25.971943888,Horizon Advisors,Invoice payment,67678.86,Admin
+1385,2024-10-07 21:09:44.368737472,Excel Media Group,Consultancy retainer,40057.98,OpEx
+1386,2024-10-08 14:43:02.765531060,BlueStar Procurement,Invoice payment,134429.55,CapEx
+1387,2024-10-09 08:16:21.162324648,BrightPath Consulting,Service fee,855511.58,Marketing
+1388,2024-10-10 01:49:39.559118236,Peak Facilities Mgmt,,971194.24,CapEx
+1389,2024-10-10 19:22:57.955911824,Goldline Trading,Invoice payment,669583.58,OpEx
+1390,2024-10-11 12:56:16.352705408,Alpha Logistics,Equipment purchase,53148.82,Admin
+1391,2024-10-12 06:29:34.749498996,Alpha Logistics,Maintenance,13833.45,OpEx
+1392,2024-10-13 00:02:53.146292584,Sunrise Contractors,,479994.72,CapEx
+1393,2024-10-13 17:36:11.543086172,NovaTech Services,Service fee,218018.66,Admin
+1394,2024-10-14 11:09:29.939879760,Alpha Logistics,Service fee,881234.16,Admin
+1395,2024-10-15 04:42:48.336673344,Goldline Trading,Consultancy retainer,1267973.4,Marketing
+1396,2024-10-15 22:16:06.733466932,Excel Media Group,Equipment purchase,544357.86,Marketing
+1397,2024-10-16 15:49:25.130260520,NovaTech Services,,1383600.38,IT
+1398,2024-10-17 09:22:43.527054108,BlueStar Procurement,Service fee,623944.72,OpEx
+1399,2024-10-18 02:56:01.923847696,Peak Facilities Mgmt,Service fee,979793.45,CapEx
+1400,2024-10-18 20:29:20.320641280,Sunrise Contractors,Service fee,153735.69,OpEx
+1401,2024-10-19 14:02:38.717434868,BlueStar Procurement,,337926.22,OpEx
+1402,2024-10-20 07:35:57.114228456,Goldline Trading,Invoice payment,594314.63,CapEx
+1403,2024-10-21 01:09:15.511022044,Alpha Logistics,Consultancy retainer,1514798.09,Admin
+1404,2024-10-21 18:42:33.907815632,Zenith Supplies Ltd,Invoice payment,245091.83,IT
+1405,2024-10-22 12:15:52.304609216,BlueStar Procurement,Service fee,966803.82,Marketing
+1406,2024-10-23 05:49:10.701402804,BlueStar Procurement,,296927.06,Marketing
+1407,2024-10-23 23:22:29.098196392,Peak Facilities Mgmt,Invoice payment,370899.62,Marketing
+1408,2024-10-24 16:55:47.494989980,Alpha Logistics,Consultancy retainer,1535364.8,OpEx
+1409,2024-10-25 10:29:05.891783568,BrightPath Consulting,,22256.95,IT
+1410,2024-10-26 04:02:24.288577152,Zenith Supplies Ltd,Office supplies,63277.91,IT
+1411,2024-10-26 21:35:42.685370740,Zenith Supplies Ltd,Invoice payment,47892.87,OpEx
+1412,2024-10-27 15:09:01.082164328,BrightPath Consulting,Equipment purchase,13354.06,Admin
+1413,2024-10-28 08:42:19.478957916,Sunrise Contractors,,159947.89,IT
+1414,2024-10-29 02:15:37.875751500,Zenith Supplies Ltd,Consultancy retainer,1361572.51,Admin
+1415,2024-10-29 19:48:56.272545088,BlueStar Procurement,Equipment purchase,288564.5,IT
+1416,2024-10-30 13:22:14.669338676,Goldline Trading,Equipment purchase,595219.26,IT
+1417,2024-10-31 06:55:33.066132264,BrightPath Consulting,Office supplies,2266678.82,Admin
+1418,2024-11-01 00:28:51.462925852,Sunrise Contractors,Service fee,3241443.13,OpEx
+1419,2024-11-01 18:02:09.859719436,Peak Facilities Mgmt,Maintenance,398831.02,CapEx
+1420,2024-11-02 11:35:28.256513024,NovaTech Services,,3369850.15,CapEx
+1421,2024-11-03 05:08:46.653306612,Zenith Supplies Ltd,Invoice payment,507976.26,Admin
+1422,2024-11-03 22:42:05.050100200,Zenith Supplies Ltd,Maintenance,125983.05,Admin
+1423,2024-11-04 16:15:23.446893788,Horizon Advisors,Maintenance,181389.05,Admin
+1424,2024-11-05 09:48:41.843687372,Alpha Logistics,Maintenance,48011.47,OpEx
+1425,2024-11-06 03:22:00.240480960,Excel Media Group,Consultancy retainer,116751.06,CapEx
+1426,2024-11-06 20:55:18.637274548,NovaTech Services,Equipment purchase,258583.77,Marketing
+1427,2024-11-07 14:28:37.034068136,Peak Facilities Mgmt,Maintenance,1476784.33,OpEx
+1428,2024-11-08 08:01:55.430861724,Zenith Supplies Ltd,Service fee,5845336.65,CapEx
+1429,2024-11-09 01:35:13.827655308,Horizon Advisors,Maintenance,55643.9,IT
+1430,2024-11-09 19:08:32.224448896,Excel Media Group,,797503.26,OpEx
+1431,2024-11-10 12:41:50.621242484,Goldline Trading,Office supplies,92891.19,Admin
+1432,2024-11-11 06:15:09.018036072,BrightPath Consulting,Consultancy retainer,901707.65,CapEx
+1433,2024-11-11 23:48:27.414829660,BlueStar Procurement,Equipment purchase,363440.19,OpEx
+1434,2024-11-12 17:21:45.811623244,NovaTech Services,Invoice payment,28385.71,Admin
+1435,2024-11-13 10:55:04.208416832,Goldline Trading,,1780572.48,Admin
+1436,2024-11-14 04:28:22.605210420,NovaTech Services,Consultancy retainer,178527.68,OpEx
+1437,2024-11-14 22:01:41.002004008,BrightPath Consulting,Invoice payment,198620.18,OpEx
+1438,2024-11-15 15:34:59.398797596,Goldline Trading,Maintenance,88909.24,OpEx
+1439,2024-11-16 09:08:17.795591180,Alpha Logistics,Office supplies,165806.23,Marketing
+1440,2024-11-17 02:41:36.192384768,Zenith Supplies Ltd,Office supplies,840570.13,IT
+1441,2024-11-17 20:14:54.589178356,BrightPath Consulting,Invoice payment,333078.5,OpEx
+1442,2024-11-18 13:48:12.985971944,Alpha Logistics,Maintenance,724323.22,CapEx
+1443,2024-11-19 07:21:31.382765528,Goldline Trading,Office supplies,761376.14,CapEx
+1444,2024-11-20 00:54:49.779559116,Horizon Advisors,Maintenance,3207468.27,CapEx
+1445,2024-11-20 18:28:08.176352704,Alpha Logistics,Maintenance,264559.32,CapEx
+1446,2024-11-21 12:01:26.573146292,Zenith Supplies Ltd,Service fee,48277.13,OpEx
+1447,2024-11-22 05:34:44.969939880,Alpha Logistics,Service fee,2193115.35,Admin
+1448,2024-11-22 23:08:03.366733464,Sunrise Contractors,,269081.0,CapEx
+1449,2024-11-23 16:41:21.763527052,BrightPath Consulting,Equipment purchase,2354617.06,CapEx
+1450,2024-11-24 10:14:40.160320640,Goldline Trading,Equipment purchase,786277.98,CapEx
+1451,2024-11-25 03:47:58.557114228,Zenith Supplies Ltd,Consultancy retainer,363412.45,IT
+1452,2024-11-25 21:21:16.953907816,NovaTech Services,Office supplies,746509.66,Marketing
+1453,2024-11-26 14:54:35.350701400,Goldline Trading,Maintenance,8256562.03,Admin
+1454,2024-11-27 08:27:53.747494988,Goldline Trading,Invoice payment,9973785.85,CapEx
+1455,2024-11-28 02:01:12.144288576,Sunrise Contractors,Equipment purchase,490937.3,IT
+1456,2024-11-28 19:34:30.541082164,Peak Facilities Mgmt,,562578.46,IT
+1457,2024-11-29 13:07:48.937875752,Goldline Trading,Service fee,2222982.31,OpEx
+1458,2024-11-30 06:41:07.334669336,Horizon Advisors,Service fee,124431.23,IT
+1459,2024-12-01 00:14:25.731462924,Sunrise Contractors,,729128.71,Marketing
+1460,2024-12-01 17:47:44.128256512,BrightPath Consulting,Invoice payment,425578.94,OpEx
+1461,2024-12-02 11:21:02.525050100,BrightPath Consulting,Consultancy retainer,708469.52,Marketing
+1462,2024-12-03 04:54:20.921843688,NovaTech Services,Equipment purchase,126746.81,OpEx
+1463,2024-12-03 22:27:39.318637272,Sunrise Contractors,Maintenance,40767.84,OpEx
+1464,2024-12-04 16:00:57.715430860,BrightPath Consulting,Invoice payment,19742.42,OpEx
+1465,2024-12-05 09:34:16.112224448,BlueStar Procurement,Equipment purchase,82778.52,Admin
+1466,2024-12-06 03:07:34.509018036,Goldline Trading,Service fee,222345.35,Marketing
+1467,2024-12-06 20:40:52.905811624,Horizon Advisors,Maintenance,284990.93,Admin
+1468,2024-12-07 14:14:11.302605208,Excel Media Group,Office supplies,8087633.65,OpEx
+1469,2024-12-08 07:47:29.699398796,NovaTech Services,Equipment purchase,2324440.81,OpEx
+1470,2024-12-09 01:20:48.096192384,BrightPath Consulting,Consultancy retainer,104491.74,IT
+1471,2024-12-09 18:54:06.492985972,Peak Facilities Mgmt,Service fee,745315.34,IT
+1472,2024-12-10 12:27:24.889779556,NovaTech Services,,240237.34,Marketing
+1473,2024-12-11 06:00:43.286573144,BrightPath Consulting,Office supplies,288789.76,OpEx
+1474,2024-12-11 23:34:01.683366732,BlueStar Procurement,Consultancy retainer,584194.04,IT
+1475,2024-12-12 17:07:20.080160320,Goldline Trading,Consultancy retainer,1119907.53,Marketing
+1476,2024-12-13 10:40:38.476953908,Zenith Supplies Ltd,Maintenance,265962.95,Admin
+1477,2024-12-14 04:13:56.873747492,Goldline Trading,Maintenance,2182054.23,OpEx
+1478,2024-12-14 21:47:15.270541080,Goldline Trading,Equipment purchase,79785.15,IT
+1479,2024-12-15 15:20:33.667334668,Horizon Advisors,Consultancy retainer,446640.18,Admin
+1480,2024-12-16 08:53:52.064128256,Peak Facilities Mgmt,Office supplies,21780172.38,OpEx
+1481,2024-12-17 02:27:10.460921844,Alpha Logistics,Office supplies,618232.34,CapEx
+1482,2024-12-17 20:00:28.857715428,Alpha Logistics,Office supplies,3797379.42,Admin
+1483,2024-12-18 13:33:47.254509016,Excel Media Group,Invoice payment,507514.35,OpEx
+1484,2024-12-19 07:07:05.651302604,Zenith Supplies Ltd,Equipment purchase,1057232.97,CapEx
+1485,2024-12-20 00:40:24.048096192,NovaTech Services,Office supplies,406291.11,Admin
+1486,2024-12-20 18:13:42.444889780,Alpha Logistics,,342623.9,IT
+1487,2024-12-21 11:47:00.841683364,Zenith Supplies Ltd,Equipment purchase,137417.14,OpEx
+1488,2024-12-22 05:20:19.238476952,BlueStar Procurement,Consultancy retainer,843615.45,Admin
+1489,2024-12-22 22:53:37.635270540,Zenith Supplies Ltd,Equipment purchase,123339.28,IT
+1490,2024-12-23 16:26:56.032064128,Zenith Supplies Ltd,Service fee,1200655.07,IT
+1491,2024-12-24 10:00:14.428857716,BlueStar Procurement,Invoice payment,2253354.4,IT
+1492,2024-12-25 03:33:32.825651300,Alpha Logistics,Office supplies,766658.78,OpEx
+1493,2024-12-25 21:06:51.222444888,Horizon Advisors,,287974.41,IT
+1494,2024-12-26 14:40:09.619238476,Zenith Supplies Ltd,Maintenance,874098.52,IT
+1495,2024-12-27 08:13:28.016032064,Alpha Logistics,Office supplies,278449.06,CapEx
+1496,2024-12-28 01:46:46.412825652,Alpha Logistics,Invoice payment,1800042.24,Admin
+1497,2024-12-28 19:20:04.809619236,Peak Facilities Mgmt,,28364.42,Admin
+1498,2024-12-29 12:53:23.206412824,Excel Media Group,Equipment purchase,267423.53,Admin
+1499,2024-12-30 06:26:41.603206412,Goldline Trading,Consultancy retainer,22332.14,CapEx
+1500,2024-12-31 00:00:00.000000000,BrightPath Consulting,,46976.78,IT
